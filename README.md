@@ -35,3 +35,10 @@ This repository is a beginner-friendly guide to participating in **IDO (Initial 
 ## 🔗 References
 - [What is an ICO?](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
 - [What is an IDO?](https://academy.binance.com/en/articles/what-is-an-ido-initial-dex-offering)
+
+
+## Additional Platforms
+- [Binance Launchpad](https://launchpad.binance.com/)
+- [Coinlist](https://coinlist.co/)
+
+Added Binance Launchpad and Coinlist to IDO platforms list
